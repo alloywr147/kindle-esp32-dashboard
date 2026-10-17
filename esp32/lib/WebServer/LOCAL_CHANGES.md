@@ -1,0 +1,1 @@
+Arduino-ESP32 2.0.17 WebServer, LGPL-2.1-or-later. Original copyright headers retained. Only Parsing.cpp changed: reject multipart with 415, and reject body Content-Length outside 0..2048 with 413, after headers and before any body buffering. Other files unchanged. Project-local copy; global SDK remains unchanged.
