@@ -1,0 +1,8 @@
+* text=auto
+*.sh text eol=lf
+*.py text eol=lf
+*.lua text eol=lf
+*.dat binary
+*.idx binary
+*.pem text eol=lf
+
